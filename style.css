@@ -468,7 +468,7 @@ section {
   .skills {
     margin-top: 4rem;
     display: grid;
-    grid-template-columns: repeat(3, minmax(200px, auto));
+    grid-template-columns: repeat(2, minmax(200px, auto));
     align-items: center;
     gap: .25rem;
     margin-left: -50px;
@@ -539,16 +539,16 @@ section {
     margin-left: -50px;
     margin-top: 4rem;
     display: grid;
-    grid-template-columns: repeat(3, minmax(200px, auto));
+    grid-template-columns: repeat(2, minmax(200px, auto));
     align-items: center;
     gap: .25rem;
   }
   .skills-content img {
     padding: 10px;
-    width: 60%;
+    width: 80%;
     border-radius: 10px;
     display: block;
-    height: 60%;
+    height: 70%;
     transition: transform 0.6s;
   }
 }
@@ -609,7 +609,7 @@ section {
     margin-left: -50px;
     margin-top: 4rem;
     display: grid;
-    grid-template-columns: repeat(3, minmax(200px, auto));
+    grid-template-columns: repeat(2, minmax(200px, auto));
     align-items: center;
     gap: .25rem;
   }
